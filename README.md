@@ -1,5 +1,6 @@
 <h2 align="left">Hi ! My name is Felipe Lages de Lima and I'm a student at UFPI</h2>
-<h2 align="left"> I'm a competitive programmer </h2>
+<h2 align="left"> I'm a competitive programmer ![CatGIF](https://github.com/user-attachments/assets/b4aa4084-2ece-4922-9819-cffe356453c8)
+</h2>
 
 ###
 
